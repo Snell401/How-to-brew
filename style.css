@@ -140,8 +140,8 @@ a.link-word :link,
 /* Footer */
 
 footer {
-  border: burlywood solid 5px;
-  color: white;
+  border: #deb887 solid 5px;
+  color: rgb(225, 225, 225);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -152,5 +152,5 @@ footer {
 }
 
 footer a:visited {
-  color: burlywood;
+  color: #deb887;
 }
